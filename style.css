@@ -13,7 +13,7 @@
   align-items: center;
   justify-content: center;
   position: relative;
-  background: url("bg.jpg");
+  background: url(bg.jpg);
   background-size: cover;
   background-position: center;
 }
